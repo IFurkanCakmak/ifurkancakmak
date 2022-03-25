@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js, React.js, Nuxt.js, Next.js, Node.js REST API**
 
-- 👨‍💻 All of my projects are available at [ifurkancakmak@github.io](ifurkancakmak@github.io)
+- 👨‍💻 All of my projects are available at [ifurkancakmak.github.io](ifurkancakmak@github.io)
 
 - 💬 Ask me about **ASP.NET MVC, C# .NET Core, Web API ,GitHub, SEO, SEM, Google Analytics, Search Console, DevOps, Wordpress, Wix**
 
