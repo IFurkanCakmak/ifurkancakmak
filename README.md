@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İzzet Furkan Çakmak</h1>
-<h3 align="center">UI/UX and SEO Experienced Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Vue.js, React.js, Nuxt.js, Next.js, Node.js REST API**
 
