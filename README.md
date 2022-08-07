@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [ifurkancakmak.github](https://github.com/IFurkanCakmak?tab=repositories)
 
-- 💬 Ask me about **ASP.NET MVC, C# .NET Core, Web API ,GitHub, SEO, SEM, Google Analytics, Search Console, DevOps, Wordpress, Wix**
+- 💬 Ask me about **ASP.NET MVC, C# .NET Core, Web API ,GitHub, SEO, SEM, Google Analytics, Search Console, DevOps, Wordpress**
 
 - 📫 How to reach me **furkan.cakmak@yandex.com**
 
