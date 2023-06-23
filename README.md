@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifurkancakmak&label=Profile%20views&color=0e75b6&style=flat" alt="ifurkancakmak" /> </p>
 
-- 🌱 I’m currently learning **React.js,Next.js,Node.js,REST APIs,Python,Backend Development,Headless CMS,Web3**
+- 🌱 I’m currently learning **React, Next.js, Node.js ,REST APIs, Backend Development, Headless CMS, Web3**
 
 - 📫 How to reach me **furkan.cakmak@yandex.com**
 
